@@ -1,2 +1,3 @@
-# OOP-Assignment-2
-implementation of git diff in c#
+# C# File Comparison tool
+very basic implementation of git diff in c#
+indicates if files contain the same data
